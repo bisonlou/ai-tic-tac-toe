@@ -1,5 +1,4 @@
 # Tic Tac Toe Game
-
 This is a single player game. The player gets to play against the computer.
 Trust me, you'll never win!
 
